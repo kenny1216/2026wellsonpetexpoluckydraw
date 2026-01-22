@@ -2,14 +2,14 @@
 import { Prize } from './types';
 
 export const PRIZES: Prize[] = [
-  { id: 1, label: "$1,000 進貨折扣券", probability: 5, color: "#FDE047", icon: "fa-certificate" },
-  { id: 2, label: "專業美容用品", probability: 10, color: "#60A5FA", icon: "fa-scissors" },
-  { id: 3, label: "$500 進貨折扣券", probability: 15, color: "#F97316", icon: "fa-money-bill-wave" },
-  { id: 4, label: "美容教學資源", probability: 15, color: "#A855F7", icon: "fa-book" },
-  { id: 5, label: "$300 進貨折扣券", probability: 20, color: "#4ADE80", icon: "fa-ticket-alt" },
-  { id: 6, label: "展場限定優惠資格", probability: 15, color: "#F472B6", icon: "fa-star" },
-  { id: 7, label: "加購優惠券", probability: 10, color: "#FB923C", icon: "fa-cart-plus" },
-  { id: 8, label: "再轉一次", probability: 10, color: "#94A3B8", icon: "fa-redo" },
+  { id: 1, label: "設備折價券$2000元", probability: 5, color: "#EF4444", icon: "fa-crown" },
+  { id: 2, label: "設備折價券$1000元", probability: 8, color: "#F59E0B", icon: "fa-award" },
+  { id: 3, label: "設備折價券$500元", probability: 12, color: "#3B82F6", icon: "fa-tools" },
+  { id: 4, label: "設備折價券$300元", probability: 15, color: "#10B981", icon: "fa-cog" },
+  { id: 5, label: "耗材優惠券$500元", probability: 12, color: "#8B5CF6", icon: "fa-tags" },
+  { id: 6, label: "耗材優惠券$300元", probability: 15, color: "#EC4899", icon: "fa-tag" },
+  { id: 7, label: "威笙品牌好禮", probability: 15, color: "#6366F1", icon: "fa-gift" },
+  { id: 8, label: "幸運小禮", probability: 18, color: "#94A3B8", icon: "fa-smile" },
 ];
 
 export const APP_THEME = {

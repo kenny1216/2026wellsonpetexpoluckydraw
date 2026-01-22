@@ -47,7 +47,7 @@ const App: React.FC = () => {
             </div>
             <div>
               <h1 className="text-2xl font-black text-blue-900 tracking-tight leading-none">威笙寵物用品</h1>
-              <p className="text-sm font-medium text-blue-600 mt-1 uppercase tracking-widest">Wilson Pet Supplies</p>
+              <p className="text-sm font-medium text-blue-600 mt-1 uppercase tracking-widest">wellsonpet</p>
             </div>
           </div>
           <div className="hidden md:block text-right">
@@ -105,7 +105,7 @@ const App: React.FC = () => {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-8 px-4">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="text-gray-400 text-sm mb-2">© 2026 威笙寵物用品 Wilson Pet Supplies. All Rights Reserved.</p>
+          <p className="text-gray-400 text-sm mb-2">© 2026 威笙寵物用品 wellsonpet. All Rights Reserved.</p>
           <div className="flex justify-center gap-6 mt-4">
             <a href="#" className="hover:text-blue-400 transition-colors"><i className="fab fa-facebook-f"></i></a>
             <a href="#" className="hover:text-blue-400 transition-colors"><i className="fab fa-instagram"></i></a>

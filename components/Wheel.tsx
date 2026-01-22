@@ -68,9 +68,9 @@ const Wheel: React.FC<WheelProps> = ({ onResult, isSpinning, setIsSpinning }) =>
     ctx.stroke();
 
     ctx.fillStyle = '#fff';
-    ctx.font = 'bold 20px Noto Sans TC';
+    ctx.font = 'bold 14px Noto Sans TC'; // Slightly smaller font for longer text
     ctx.textAlign = 'center';
-    ctx.fillText('Wilson', center, center + 7);
+    ctx.fillText('wellsonpet', center, center + 5);
   }, [rotation]);
 
   useEffect(() => {

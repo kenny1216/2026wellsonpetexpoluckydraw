@@ -39,7 +39,7 @@ const ResultModal: React.FC<ResultModalProps> = ({ prize, message, onClose, isLo
           
           <div className="bg-blue-50 rounded-2xl p-6 text-left relative min-h-[120px]">
             <div className="absolute -top-3 left-6 bg-blue-600 text-white text-xs px-3 py-1 rounded-full font-bold">
-              <i className="fas fa-robot mr-2"></i> Wilson AI 小叮嚀
+              <i className="fas fa-robot mr-2"></i> wellsonpet AI 小叮嚀
             </div>
             
             {isLoading ? (
